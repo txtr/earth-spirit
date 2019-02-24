@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Fencing</name>
+      <description>&lt;div&gt;Fencing&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 864&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6178888888889,20.9632777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Airport boundary wall</name>
+      <description>&lt;div&gt;Airport boundary wall&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 866&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6178333333333,20.9639166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road traffic</name>
+      <description>&lt;div&gt;Mobile Road traffic&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 866&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6180833333333,20.9640277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 867&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6178888888889,20.9628611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fencing</name>
+      <description>&lt;div&gt;Fencing&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 868&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6179444444444,20.9634722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 874&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6179444444444,20.9639166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Tree</name>
+      <description>&lt;div&gt;Group of Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 878&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6161944444444,20.9631388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 884&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6170555555556,20.9636388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 883&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6161111111111,20.9638055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Tree</name>
+      <description>&lt;div&gt;Group of Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 903&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6138333333333,20.9630555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Tree</name>
+      <description>&lt;div&gt;Group of Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 811&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6374166666667,20.9615</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 807&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6371666666667,20.9613888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast</name>
+      <description>&lt;div&gt;Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1011&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6010555555555,20.9727777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 864&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6180277777778,20.9624722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 871&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6176388888889,20.9624444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Tree</name>
+      <description>&lt;div&gt;Group of Tree&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 882&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6171111111111,20.9621111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Tree</name>
+      <description>&lt;div&gt;Group of Tree&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 901&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.61575,20.9620277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 814&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6353333333333,20.963</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TV Tower</name>
+      <description>&lt;div&gt;TV Tower&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1254&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>75.6079444444444,21.0048333333333</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

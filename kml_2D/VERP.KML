@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Airport BDRY wall with F/T</name>
+      <description>&lt;div&gt;Airport BDRY wall with F/T&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1018&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7296111111111,21.17575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1054&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7273055555556,21.1751666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Light on LOC Building Top</name>
+      <description>&lt;div&gt;Light on LOC Building Top&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1025&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7301944444445,21.1749722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1025&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7291388888889,21.1766666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BDRY wall with F/ T</name>
+      <description>&lt;div&gt;BDRY wall with F/ T&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1021&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7290555555556,21.1766388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1023&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7306666666667,21.17425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1023&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7296111111111,21.1753055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOC Antenna</name>
+      <description>&lt;div&gt;LOC Antenna&lt;/div&gt;&lt;div&gt;Runway: 24/TKOF06/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1016&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7299166666667,21.1754444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 24/APCH06/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1040&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7515,21.1860555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1082&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7260555555556,21.1704166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP Monitor Antenna</name>
+      <description>&lt;div&gt;GP Monitor Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1052&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7484444444444,21.18475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP Antenna</name>
+      <description>&lt;div&gt;GP Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1081&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.74775,21.1843611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP Building</name>
+      <description>&lt;div&gt;GP Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1049&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7476111111111,21.1842777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DME Antenna on GP Building</name>
+      <description>&lt;div&gt;DME Antenna on GP Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1053&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7476666666667,21.1843333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beacon on ATC Building</name>
+      <description>&lt;div&gt;Beacon on ATC Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1097&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7396944444444,21.1834722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Self-Radiating Mast</name>
+      <description>&lt;div&gt;Self-Radiating Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1083&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7394722222222,21.1830277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flood Light</name>
+      <description>&lt;div&gt;Flood Light&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1107&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7399444444444,21.1836111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flood Light</name>
+      <description>&lt;div&gt;Flood Light&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1108&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7403611111111,21.1837777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WDI</name>
+      <description>&lt;div&gt;WDI&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1054&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7406666666667,21.18</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DVOR Monitor Antenna</name>
+      <description>&lt;div&gt;DVOR Monitor Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1072&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>81.7429166666667,21.1808055555556</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

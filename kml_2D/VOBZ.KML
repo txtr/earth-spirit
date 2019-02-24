@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 95&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7880277777778,16.5296666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OHWT</name>
+      <description>&lt;div&gt;OHWT&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 131&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7832222222222,16.5263333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 91&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7888055555556,16.5303055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 100&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7868055555556,16.5285833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Electric Pole</name>
+      <description>&lt;div&gt;Electric Pole&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 101&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7873333333333,16.5293888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 112&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7862777777778,16.5287777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Electric Pole</name>
+      <description>&lt;div&gt;Electric Pole&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 99&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7878611111111,16.5298333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lightening Arrester Rod</name>
+      <description>&lt;div&gt;Lightening Arrester Rod&lt;/div&gt;&lt;div&gt;Runway: 26/TKOF08/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 99&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7874722222222,16.5285555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 26/APCH08/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 78&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.812,16.5353611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 125&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7880833333333,16.5309166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 129&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7868055555556,16.5303611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 140&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8054444444444,16.5339166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 136&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8075,16.531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees AD 2 VOBZ-3</name>
+      <description>&lt;div&gt;Group of Trees AD 2 VOBZ-3&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 120&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8081111111111,16.5346666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP Hut</name>
+      <description>&lt;div&gt;GP Hut&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 75&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8073055555556,16.5339444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 126&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8026111111111,16.5338333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Airport BDRY Wall with F/T</name>
+      <description>&lt;div&gt;Airport BDRY Wall with F/T&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 78&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8052777777778,16.53375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 109&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8043055555556,16.5340277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 124&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8068333333333,16.5340833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>House</name>
+      <description>&lt;div&gt;House&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 108&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8075,16.53475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cell Phone Mast</name>
+      <description>&lt;div&gt;Cell Phone Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 251&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8064166666667,16.5421111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Electric Pole</name>
+      <description>&lt;div&gt;Electric Pole&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 84&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8101111111111,16.535</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Electric Pole</name>
+      <description>&lt;div&gt;Electric Pole&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 86&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8111944444444,16.5352222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 115&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8114722222222,16.5357222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 112&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8130833333333,16.5361944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 109&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8114722222222,16.532</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 87&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8086388888889,16.5316666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 118&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8053055555555,16.53075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Electric Pole</name>
+      <description>&lt;div&gt;Electric Pole&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 75&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8114166666667,16.5322777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>College Building</name>
+      <description>&lt;div&gt;College Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 110&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8035555555555,16.5300833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 131&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8036666666667,16.5303888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 151&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8022777777778,16.5300833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Temple</name>
+      <description>&lt;div&gt;Temple&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 93&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8073611111111,16.5342777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 90&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8033333333333,16.5327777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>House Top</name>
+      <description>&lt;div&gt;House Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 126&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8121944444444,16.5359166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cell Phone Tower</name>
+      <description>&lt;div&gt;Cell Phone Tower&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 274&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.8061666666667,16.5410833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Light Pole</name>
+      <description>&lt;div&gt;Light Pole&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 92&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7965277777778,16.5291666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Light Pole</name>
+      <description>&lt;div&gt;Light Pole&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 91&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7960555555556,16.5290555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WDI</name>
+      <description>&lt;div&gt;WDI&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 98&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7956388888889,16.5291111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Light Pole</name>
+      <description>&lt;div&gt;Light Pole&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 92&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7955277777778,16.5289166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Light Pole</name>
+      <description>&lt;div&gt;Light Pole&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 92&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7949166666667,16.5288333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beacon on ATC-Top</name>
+      <description>&lt;div&gt;Beacon on ATC-Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 149&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7934444444444,16.52825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 705&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7604722222222,16.6570833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 715&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.6917222222222,16.6139166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 656&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>80.7663055555556,16.6383611111111</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Approach Light</name>
+      <description>&lt;div&gt;Approach Light&lt;/div&gt;&lt;div&gt;Runway: 22/TKOF04/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 23&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7377777777778,21.1102222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 82&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7561111111111,21.1317777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 80&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7560555555556,21.1311666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Approach Light</name>
+      <description>&lt;div&gt;Approach Light&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 30&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7533611111111,21.1258055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Airport wire fencing</name>
+      <description>&lt;div&gt;Airport wire fencing&lt;/div&gt;&lt;div&gt;Runway: 22/TKOF04/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 32&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7522222222222,21.1259722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Narmada Cement Factory</name>
+      <description>&lt;div&gt;Narmada Cement Factory&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 198&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7338055555556,21.1374444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ambuja Cement Factory</name>
+      <description>&lt;div&gt;Ambuja Cement Factory&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 184&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7389444444444,21.1397222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pylon Mast</name>
+      <description>&lt;div&gt;Pylon Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 302&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7604166666667,21.1547777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pylon Mast</name>
+      <description>&lt;div&gt;Pylon Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 302&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7561666666667,21.1597222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney Rod Top (ONGC)</name>
+      <description>&lt;div&gt;Chimney Rod Top (ONGC)&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 253&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7382222222222,21.1517222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney Rod Top (ONGC)</name>
+      <description>&lt;div&gt;Chimney Rod Top (ONGC)&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 374&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7377777777778,21.1535833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney Rod Top (ONGC)</name>
+      <description>&lt;div&gt;Chimney Rod Top (ONGC)&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 246&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7330833333333,21.1586666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast Disc Top (ONGC)</name>
+      <description>&lt;div&gt;Mast Disc Top (ONGC)&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 351&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7331388888889,21.1603611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pylon Mast</name>
+      <description>&lt;div&gt;Pylon Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 330&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.6959166666667,21.1037777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast Rod Top (GAIL)</name>
+      <description>&lt;div&gt;Mast Rod Top (GAIL)&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 359&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.74,21.1602222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pylon Mast</name>
+      <description>&lt;div&gt;Pylon Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 212&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.6997777777778,21.1008333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Communication Mast</name>
+      <description>&lt;div&gt;Communication Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 192&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7705555555556,21.1159166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DVOR Main Antenna</name>
+      <description>&lt;div&gt;DVOR Main Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 45&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7403611111111,21.1106666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DVOR Monitor Antenna</name>
+      <description>&lt;div&gt;DVOR Monitor Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 51&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7409444444445,21.1113055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Self-Radiating Mast</name>
+      <description>&lt;div&gt;Self-Radiating Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 64&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7440555555556,21.1134166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W.D.I.</name>
+      <description>&lt;div&gt;W.D.I.&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 45&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7415833333333,21.1162777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DVOR Main Antenna</name>
+      <description>&lt;div&gt;DVOR Main Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 52&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.7404444444444,21.1106388888889</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 32/APCH14/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 147&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>85.8244444444444,20.2375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHANDAGIRI TEMPLE</name>
+      <description>&lt;div&gt;KHANDAGIRI TEMPLE&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 340&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>85.7819444444444,20.2569444444444</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

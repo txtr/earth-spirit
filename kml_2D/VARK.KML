@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>TV TX MAST</name>
+      <description>&lt;div&gt;TV TX MAST&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 984&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7922222222222,22.2988888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 472&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.77075,22.3017222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 466&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7712777777778,22.3012222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP OF TREES</name>
+      <description>&lt;div&gt;GP OF TREES&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 471&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7700833333333,22.301</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.LINE</name>
+      <description>&lt;div&gt;ELECT.LINE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 465&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.77175,22.3016944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 457&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7724444444444,22.3021944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.LINE</name>
+      <description>&lt;div&gt;ELECT.LINE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 442&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7881944444444,22.3161944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.LINE</name>
+      <description>&lt;div&gt;ELECT.LINE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 447&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7885833333333,22.3158055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 443&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7870555555556,22.3170833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 461&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7708888888889,22.3019722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 469&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7724722222222,22.302</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 467&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7723333333333,22.3018611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOUN.WALL</name>
+      <description>&lt;div&gt;BOUN.WALL&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 444&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7722777777778,22.30425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 462&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7711666666667,22.3019722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.LINE</name>
+      <description>&lt;div&gt;ELECT.LINE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 465&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.77175,22.3016944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HOUSE</name>
+      <description>&lt;div&gt;HOUSE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 453&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7713611111111,22.3035</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 461&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7714444444444,22.3035833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.LINE</name>
+      <description>&lt;div&gt;ELECT.LINE&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 463&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.7702222222222,22.30225</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

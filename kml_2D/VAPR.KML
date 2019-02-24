@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>GP of Trees</name>
+      <description>&lt;div&gt;GP of Trees&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 57&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>69.6452777777778,21.6490555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP of Trees</name>
+      <description>&lt;div&gt;GP of Trees&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 55&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>69.6454444444445,21.6491111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 28&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>69.6488055555556,21.6490833333333</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

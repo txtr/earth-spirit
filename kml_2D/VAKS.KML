@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 194&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.2758888888889,21.3225833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 190&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.2782222222222,21.3223611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECTRIC POLE</name>
+      <description>&lt;div&gt;ELECTRIC POLE&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 177&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.2776666666667,21.3229444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECTRIC POLE</name>
+      <description>&lt;div&gt;ELECTRIC POLE&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 179&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.2761944444444,21.3226944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 182&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.2768888888889,21.3210555555556</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

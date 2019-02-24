@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 28/TKOF10/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 100&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.0191388888889,8.72530555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 28/TKOF10/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 105&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.0185833333333,8.72355555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 28/APCH10/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 101&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.0353055555556,8.72036111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 28/APCH10/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 98&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.0355277777778,8.72127777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast</name>
+      <description>&lt;div&gt;Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 252&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.0002222222222,8.73636111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast</name>
+      <description>&lt;div&gt;Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 259&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.0000277777778,8.73580555555555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast AD 2 VOTK-3</name>
+      <description>&lt;div&gt;Mast AD 2 VOTK-3&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 333&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.9965833333333,8.74033333333333</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,4 +1,4 @@
-var kmlLocation = "kml";
+var kmlLocation = "link";
 d3.dsv(';', 'data.csv')
     .then(function(data) {
         //var table_data='<div class="panel-group" id="accordion">';
@@ -21,10 +21,12 @@ d3.dsv(';', 'data.csv')
             but2D.setAttribute('href', kml2DPath);
             but2D.setAttribute('target', "_blank");
 
+            var kml3DPath = kmlLocation + '/' + data[count].Codes + '.KML';
             var but3D = document.createElement('a');
             but3D.classList.add("btn", "btn-primary");
             but3D.setAttribute("role", "button");
             but3D.innerText = "Download in 3D";
+            but3D.setAttribute('href', kml3DPath);
 
 
             acc.appendChild(newH3);

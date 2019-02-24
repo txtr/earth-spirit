@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 125&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.091,23.1063888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>APP Light</name>
+      <description>&lt;div&gt;APP Light&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 97&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0942222222222,23.1076388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast</name>
+      <description>&lt;div&gt;Mast&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 255&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0812777777778,23.0991944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Building</name>
+      <description>&lt;div&gt;Building&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 128&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.1100833333333,23.1200833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mast</name>
+      <description>&lt;div&gt;Mast&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 186&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.1156666666667,23.1217777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Factory Shed</name>
+      <description>&lt;div&gt;Factory Shed&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 227&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0887222222222,23.1004722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney</name>
+      <description>&lt;div&gt;Chimney&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 261&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0918055555556,23.0990833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney</name>
+      <description>&lt;div&gt;Chimney&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 264&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0916944444444,23.0983888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Factory Shed</name>
+      <description>&lt;div&gt;Factory Shed&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 267&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0790833333333,23.1054722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney</name>
+      <description>&lt;div&gt;Chimney&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 270&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0789444444444,23.1059722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney</name>
+      <description>&lt;div&gt;Chimney&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 398&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0736111111111,23.1143333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimney</name>
+      <description>&lt;div&gt;Chimney&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 296&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.0818611111111,23.1140555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Factory Shed</name>
+      <description>&lt;div&gt;Factory Shed&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 303&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>70.08275,23.1169444444444</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

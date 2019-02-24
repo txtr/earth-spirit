@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 375&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0111944444444,27.4758611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tele. Pole</name>
+      <description>&lt;div&gt;Tele. Pole&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 372&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0104166666667,27.4740833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 388&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0084444444445,27.4741666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 457&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0058888888889,27.4726666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group Of Trees</name>
+      <description>&lt;div&gt;Group Of Trees&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 428&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0060555555556,27.4694722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 425&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0117222222222,27.4858888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group Of Trees</name>
+      <description>&lt;div&gt;Group Of Trees&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 456&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0039166666667,27.4675833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 432&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0033888888889,27.47075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOC Antenna</name>
+      <description>&lt;div&gt;LOC Antenna&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 367&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0258888888889,27.4889166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mobile Road Traffic</name>
+      <description>&lt;div&gt;Mobile Road Traffic&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 377&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.026,27.489</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOC Hut</name>
+      <description>&lt;div&gt;LOC Hut&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 376&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0262777777778,27.4885555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 391&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0254444444444,27.4896944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 442&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0288888888889,27.493</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 461&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0305277777778,27.4929166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 433&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0248611111111,27.495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 428&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0312222222222,27.4938611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 23/APCH05/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 424&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0289722222222,27.4905277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wire Fence AD 2 VEMN-3</name>
+      <description>&lt;div&gt;Wire Fence AD 2 VEMN-3&lt;/div&gt;&lt;div&gt;Runway: 23/TKOF05/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 359&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>95.0112777777778,27.4759166666667</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

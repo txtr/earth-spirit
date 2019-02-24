@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+  <NetworkLink>
+    <open>1</open>
+    <Link>
+      <viewRefreshMode>onRequest</viewRefreshMode>
+      <href>https://raw.githubusercontent.com/ejson03/kmz/master/KMZ/VAPR.KMZ</href>
+    </Link>
+    <flyToView>1</flyToView>
+  </NetworkLink>
+</kml>

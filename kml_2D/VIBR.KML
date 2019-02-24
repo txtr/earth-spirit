@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3627&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1523888888889,31.8831111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tele. Pole</name>
+      <description>&lt;div&gt;Tele. Pole&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3586&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.15225,31.8830833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elect. Pole</name>
+      <description>&lt;div&gt;Elect. Pole&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3620&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1523333333333,31.8831944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elect. Pole</name>
+      <description>&lt;div&gt;Elect. Pole&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3603&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1521111111111,31.8830555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bridge</name>
+      <description>&lt;div&gt;Bridge&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3504&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1519722222222,31.8831666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Building</name>
+      <description>&lt;div&gt;Building&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3602&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1518888888889,31.8832777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Building</name>
+      <description>&lt;div&gt;Building&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3619&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1517222222222,31.8835833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Building</name>
+      <description>&lt;div&gt;Building&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3603&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1514722222222,31.8836111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 34/APCH16/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3610&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1513055555556,31.88375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Steel Bridge</name>
+      <description>&lt;div&gt;Steel Bridge&lt;/div&gt;&lt;div&gt;Runway: 34/APCH16/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3635&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1480277777778,31.8875833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP of Trees</name>
+      <description>&lt;div&gt;GP of Trees&lt;/div&gt;&lt;div&gt;Runway: 34/APCH16/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3615&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1589722222222,31.8690277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GP of Trees</name>
+      <description>&lt;div&gt;GP of Trees&lt;/div&gt;&lt;div&gt;Runway: 34/APCH16/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3581&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1587222222222,31.8671666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 34/APCH16/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3587&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1563611111111,31.87</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elect. Pole</name>
+      <description>&lt;div&gt;Elect. Pole&lt;/div&gt;&lt;div&gt;Runway: 34/APCH16/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3632&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1562222222222,31.8664166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 34/APCH16/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3638&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.15775,31.8644166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B.Wall</name>
+      <description>&lt;div&gt;B.Wall&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3578&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1520833333333,31.8818611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Met Obsr. Box</name>
+      <description>&lt;div&gt;Met Obsr. Box&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3585&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1518611111111,31.8818611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Building</name>
+      <description>&lt;div&gt;Building&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3612&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1516111111111,31.8818888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wall Fence AD 2 VIBR-4</name>
+      <description>&lt;div&gt;Wall Fence AD 2 VIBR-4&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3592&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1514444444445,31.8818888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3636&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1510833333333,31.8819444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elect.Pole</name>
+      <description>&lt;div&gt;Elect.Pole&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3610&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1513611111111,31.8821944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bridge</name>
+      <description>&lt;div&gt;Bridge&lt;/div&gt;&lt;div&gt;Runway: 34/TKOF16/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3604&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.1513611111111,31.8822777777778</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

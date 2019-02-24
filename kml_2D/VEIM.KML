@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2611&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>93.9092222222222,24.7780555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELECT.POLE</name>
+      <description>&lt;div&gt;ELECT.POLE&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2560&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>93.9053611111111,24.7735277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAST</name>
+      <description>&lt;div&gt;MAST&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2750&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>93.9370277777778,24.7975277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TREE</name>
+      <description>&lt;div&gt;TREE&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2592&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>93.9053055555556,24.77325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TEL POLE</name>
+      <description>&lt;div&gt;TEL POLE&lt;/div&gt;&lt;div&gt;Runway: 22/APCH04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2554&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>93.9049722222222,24.7729166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FENCING TOP</name>
+      <description>&lt;div&gt;FENCING TOP&lt;/div&gt;&lt;div&gt;Runway: 22/TKOF04/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2543&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>93.8898888888889,24.7471666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOLAR LT ON HILL</name>
+      <description>&lt;div&gt;SOLAR LT ON HILL&lt;/div&gt;&lt;div&gt;Runway: 22/TKOF04/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3120&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>93.8374166666667,24.6834166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOBILE ROAD TRAFFIC (ROAD ELEV. 882.2M+MOBlLE TRAFFIC 5M)</name>
+      <description>&lt;div&gt;MOBILE ROAD TRAFFIC (ROAD ELEV. 882.2M+MOBlLE TRAFFIC 5M)&lt;/div&gt;&lt;div&gt;Runway: 04/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2911&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>91.9837222222222,25.7112777777778</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

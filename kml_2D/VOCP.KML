@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: RWY 29/TKOFRWY 11/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 452&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7638888888889,14.51575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group ofTrees</name>
+      <description>&lt;div&gt;Group ofTrees&lt;/div&gt;&lt;div&gt;Runway: RWY 29/APCHRWY 11/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 453&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7618611111111,14.5156388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group ofTrees</name>
+      <description>&lt;div&gt;Group ofTrees&lt;/div&gt;&lt;div&gt;Runway: RWY 29/APCHRWY 11/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 454&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7618611111111,14.51425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>APP Light</name>
+      <description>&lt;div&gt;APP Light&lt;/div&gt;&lt;div&gt;Runway: RWY 29/APCHRWY 11/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 454&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7618611111111,14.51425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group ofTrees</name>
+      <description>&lt;div&gt;Group ofTrees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 453&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7642777777778,14.5159444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W.D.I</name>
+      <description>&lt;div&gt;W.D.I&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 459&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7658333333333,14.5152222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W.D.I</name>
+      <description>&lt;div&gt;W.D.I&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 454&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7783611111111,14.5112777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group ofTrees</name>
+      <description>&lt;div&gt;Group ofTrees&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 465&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7818888888889,14.511</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Air Mast</name>
+      <description>&lt;div&gt;Air Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 838&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.733,14.4801111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1808&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.8909166666667,14.5468055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1778&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.8891944444445,14.5632777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1749&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.8799166666667,14.5639166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1857&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.3385,14.5931388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1562&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.82275,14.6037777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1037&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.6934166666667,14.40725</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1083&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.7316944444444,14.4010555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1257&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.8916388888889,14.4736944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1060&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.8623333333333,14.5606666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1401&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.8162222222222,14.6114722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1296&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.8480277777778,14.6168333333333</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

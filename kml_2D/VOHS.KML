@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>ATC Tower</name>
+      <description>&lt;div&gt;ATC Tower&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2224&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>78.4216666666667,17.235</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

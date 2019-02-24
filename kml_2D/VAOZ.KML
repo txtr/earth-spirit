@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Ramshej Hill</name>
+      <description>&lt;div&gt;Ramshej Hill&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3232&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.7679444444444,20.1129722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3150&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.7600833333333,20.1236111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Antenna on Borgarh Hill Top</name>
+      <description>&lt;div&gt;Antenna on Borgarh Hill Top&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3642&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.7383611111111,20.117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2822&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.73825,20.1179722222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2900&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.7695277777778,20.1100833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2428&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.7716666666667,20.1176388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hill Top</name>
+      <description>&lt;div&gt;Hill Top&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3150&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.7600833333333,20.1236111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Dhakambe</name>
+      <description>&lt;div&gt;Tower at Dhakambe&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2205&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.8136111111111,20.1026388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Dhakambe ODU</name>
+      <description>&lt;div&gt;Tower at Dhakambe ODU&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2205&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.8156111111111,20.1032222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Pimpalnare</name>
+      <description>&lt;div&gt;Tower at Pimpalnare&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2389&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.79025,20.1204444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arrester Barrier Hut</name>
+      <description>&lt;div&gt;Arrester Barrier Hut&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2011&lt;/div&gt;&lt;div&gt;Marking: Marked&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9278888888889,20.1216388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AWS Antenna</name>
+      <description>&lt;div&gt;AWS Antenna&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1994&lt;/div&gt;&lt;div&gt;Marking: Marked&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.8986111111111,20.1188055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bhalerao Cold Storage</name>
+      <description>&lt;div&gt;Bhalerao Cold Storage&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1962&lt;/div&gt;&lt;div&gt;Marking: Marked&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9638055555556,20.1253888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kshirsagar Cold Storage</name>
+      <description>&lt;div&gt;Kshirsagar Cold Storage&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1939&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.96425,20.1272777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BSNL Tower at Vadali Najik</name>
+      <description>&lt;div&gt;BSNL Tower at Vadali Najik&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2021&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>74.0265833333333,20.125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Dawachwadi</name>
+      <description>&lt;div&gt;Tower at Dawachwadi&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2011&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>74.0581111111111,20.1501111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Karsul</name>
+      <description>&lt;div&gt;Tower at Karsul&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2100&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>74.0298055555556,20.1431944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Vadali Najik</name>
+      <description>&lt;div&gt;Tower at Vadali Najik&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1988&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>74.0226944444444,20.12775</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arrester Barrier Hut</name>
+      <description>&lt;div&gt;Arrester Barrier Hut&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1955&lt;/div&gt;&lt;div&gt;Marking: Marked&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.89875,20.1188055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AWS Antenna</name>
+      <description>&lt;div&gt;AWS Antenna&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1938&lt;/div&gt;&lt;div&gt;Marking: Marked&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9283611111111,20.1201944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ATC Building</name>
+      <description>&lt;div&gt;ATC Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2021&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9136111111111,20.1168055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NDB</name>
+      <description>&lt;div&gt;NDB&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2083&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9098888888889,20.1075277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Water Tank</name>
+      <description>&lt;div&gt;Water Tank&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2051&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9221111111111,20.1142222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TX Mast</name>
+      <description>&lt;div&gt;TX Mast&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2119&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9091388888889,20.1075833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAR Building</name>
+      <description>&lt;div&gt;PAR Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1992&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9147777777778,20.1185555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MSSR Antenna</name>
+      <description>&lt;div&gt;MSSR Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2018&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9051944444444,20.1224444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glide Scope Antenna</name>
+      <description>&lt;div&gt;Glide Scope Antenna&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1965&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9245277777778,20.122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HRDF Building</name>
+      <description>&lt;div&gt;HRDF Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2005&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9066388888889,20.1150555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CCR Building</name>
+      <description>&lt;div&gt;CCR Building&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1975&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9133611111111,20.1166944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Mast-1 at â€˜Eâ€™ Apron</name>
+      <description>&lt;div&gt;High Mast-1 at â€˜Eâ€™ Apron&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2034&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9000555555556,20.1144166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Mast-2 at â€˜Eâ€™ Apron</name>
+      <description>&lt;div&gt;High Mast-2 at â€˜Eâ€™ Apron&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2034&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.8993333333333,20.1143333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Mast-3 at â€˜Eâ€™ Apron</name>
+      <description>&lt;div&gt;High Mast-3 at â€˜Eâ€™ Apron&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2034&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.8985833333333,20.1142777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Mast-4 at â€˜Eâ€™ Apron</name>
+      <description>&lt;div&gt;High Mast-4 at â€˜Eâ€™ Apron&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2034&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.8978055555556,20.1138055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Ojhar â€“1</name>
+      <description>&lt;div&gt;Tower at Ojhar â€“1&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2037&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9444444444444,20.0964444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Ojhar â€“2</name>
+      <description>&lt;div&gt;Tower at Ojhar â€“2&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2037&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9461666666667,20.1043055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Ojhar â€“3</name>
+      <description>&lt;div&gt;Tower at Ojhar â€“3&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1975&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9250277777778,20.0956666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Ojhar â€“4</name>
+      <description>&lt;div&gt;Tower at Ojhar â€“4&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2037&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9231666666667,20.0901111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Ojhar â€“5</name>
+      <description>&lt;div&gt;Tower at Ojhar â€“5&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2103&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9198611111111,20.0867777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at IAF Ojhar</name>
+      <description>&lt;div&gt;Tower at IAF Ojhar&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2037&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.9259722222222,20.1033333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower at Janori</name>
+      <description>&lt;div&gt;Tower at Janori&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 2037&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>73.8864166666667,20.1044166666667</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

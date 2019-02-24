@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 19/APCH01/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 698&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9211944444445,24.8290277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Temple Flag Top</name>
+      <description>&lt;div&gt;Temple Flag Top&lt;/div&gt;&lt;div&gt;Runway: 19/APCH01/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 710&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9221111111111,24.8305277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 19/APCH01/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 725&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9228611111111,24.8306388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: 19/APCH01/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 736&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9243888888889,24.8328333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOC Antenna</name>
+      <description>&lt;div&gt;LOC Antenna&lt;/div&gt;&lt;div&gt;Runway: 19/TKOF01/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 736&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.917,24.8106111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOC Hut</name>
+      <description>&lt;div&gt;LOC Hut&lt;/div&gt;&lt;div&gt;Runway: 19/TKOF01/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 741&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9175,24.8104444444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOC monitor antenna</name>
+      <description>&lt;div&gt;LOC monitor antenna&lt;/div&gt;&lt;div&gt;Runway: 19/TKOF01/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 734&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9170277777778,24.81125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree</name>
+      <description>&lt;div&gt;Tree&lt;/div&gt;&lt;div&gt;Runway: 19/TKOF01/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 753&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9174722222222,24.8098333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Group of Trees</name>
+      <description>&lt;div&gt;Group of Trees&lt;/div&gt;&lt;div&gt;Runway: 19/TKOF01/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 765&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9148055555556,24.8065833333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tree on Dulehri Hill top</name>
+      <description>&lt;div&gt;Tree on Dulehri Hill top&lt;/div&gt;&lt;div&gt;Runway: 19/TKOF01/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 943&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9165555555556,24.7872222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solar light on Pira Hill top AD 2 VEKO-3</name>
+      <description>&lt;div&gt;Solar light on Pira Hill top AD 2 VEKO-3&lt;/div&gt;&lt;div&gt;Runway: 19/TKOF01/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 1066&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>79.9051944444444,24.7775</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

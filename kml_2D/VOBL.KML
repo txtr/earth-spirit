@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>ATC TWR</name>
+      <description>&lt;div&gt;ATC TWR&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 3165&lt;/div&gt;&lt;div&gt;Marking: LGTD&lt;/div&gt;</description>
+      <Point>
+        <coordinates>77.7053333333333,13.1988611111111</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

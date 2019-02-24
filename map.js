@@ -1,5 +1,5 @@
-var kml2dBase = "kml";
-var kmlNetworkLinkBase = "kml";
+var kml2dBase = "kml_2D";
+var kmlNetworkLinkBase = "link";
 // Source https://github.com/heremaps/maps-api-for-javascript-examples/blob/master/map-with-interactive-kml-objects/js/app.js
 function renderKML(map, ui, renderControls, icao, name) {
     // Create a reader object, that will load data from a KML file
@@ -55,7 +55,8 @@ function renderKML(map, ui, renderControls, icao, name) {
 const platform = new H.service.Platform({
     app_id: "iR8ykbifoBUlJW6RdfLr",
     app_code: "s76E4-KlQ79tDPa4mH1Zwg",
-    useCIT: true
+    useCIT: true,
+    useHTTPS: true
 });
 var defaultLayers = platform.createDefaultLayers();
 
