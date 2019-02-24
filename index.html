@@ -159,6 +159,10 @@
         if (txtValue.toUpperCase().indexOf(filter) > -1) {
           li[i].style.display = "";
         } else {
+          //$('#accordion').accordion().children('div').hide(); //without closing anim
+          $("#accordion").accordion({                           //with closing anim
+            active: false,
+          });
           li[i].style.display = "none";
         }
       }
