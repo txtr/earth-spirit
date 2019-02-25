@@ -657,6 +657,7 @@ header.masthead .intro-text .intro-heading {
     width: 225px;
     height: 225px;
     border: 7px solid #fff;
+    object-fit: contain;
 }
 
 .team-member h4 {
