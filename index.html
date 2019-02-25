@@ -70,9 +70,12 @@
          <div class="col-lg-1 testing">&nbsp;</div>
         <div class="col-lg-10 testing greybg">
         <div class="row">
-        <div class="col-lg-12">
-        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for airports..">
-        </div>
+          <div class="col-lg-6">
+            <input type="text" id="airportin" onkeyup="airportsrch()" placeholder="Airport..">
+          </div>
+          <div class="col-lg-6">
+            <input type="text" id="icaoin" onkeyup="icaosrch()" placeholder="ICAO..">
+          </div>
         </div>
               <div class="innerpad1">
                 <div data-role="content" id="Div1">
@@ -139,17 +142,39 @@
   <!-- Custom scripts for this template -->
   <script src="js/agency.min.js"></script>
   <script>
-    function myFunction() {
+    function icaosrch() {
       // Declare variables
       var input, filter, ul, li, a, i, txtValue;
-      input = document.getElementById("myInput");
+      input = document.getElementById("icaoin");
       filter = input.value.toUpperCase();
       ul = document.getElementById("accordion");
       li = ul.getElementsByTagName('h3');
     
-      // Loop through all list items, and hide those who don't match the search query
+      //Loop through all elements to find matching text
       for (i = 0; i < li.length; i++) {
-        a = li[i];//.getElementsByTagName('a')[0];
+        txtValue = $(li[i]).contents().filter(function(){ return this.nodeType == 3; })[0].nodeValue;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+          li[i].style.display = "";
+        } else {
+          //$('#accordion').accordion().children('div').hide(); //without closing anim
+          $("#accordion").accordion({                           //with closing anim
+            active: false,
+          });
+          li[i].style.display = "none";
+        }
+      }
+    }
+    function airportsrch() {
+      // Declare variables
+      var input, filter, ul, li, a, i, txtValue;
+      input = document.getElementById("airportin");
+      filter = input.value.toUpperCase();
+      ul = document.getElementById("accordion");
+      li = ul.getElementsByTagName('h3');
+    
+      //Loop through all elements to find matching text
+      for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName('a')[0];
         txtValue = a.textContent || a.innerText;
         if (txtValue.toUpperCase().indexOf(filter) > -1) {
           li[i].style.display = "";
