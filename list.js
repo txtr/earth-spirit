@@ -1,4 +1,4 @@
-var kmlLocation = "link";
+var kmlNetworkLinkBase = "https://cdn.jsdelivr.net/gh/ejson03/kmz/link";
 d3.dsv(';', 'data.csv')
     .then(function(data) {
         //var table_data='<div class="panel-group" id="accordion">';
@@ -9,8 +9,7 @@ d3.dsv(';', 'data.csv')
             var newH3 = document.createElement('h3');
             var newDiv = document.createElement('div');
             var acc = document.getElementById('accordion');
-            var number = document.getElementsByTagName('h3').length;
-
+ 
             newH3.innerText = data[count].Name;
 
             var kml2DPath = 'map.html?icao=' + data[count].Codes + '&name=' + data[count].Name;
@@ -21,12 +20,14 @@ d3.dsv(';', 'data.csv')
             but2D.setAttribute('href', kml2DPath);
             but2D.setAttribute('target', "_blank");
 
-            var kml3DPath = kmlLocation + '/' + data[count].Codes + '.KML';
+            var kml3DPath = kmlNetworkLinkBase + '/' + data[count].Codes + '.KML';
             var but3D = document.createElement('a');
+            but3D.innerText = "Download in 3D";
             but3D.classList.add("btn", "btn-primary");
             but3D.setAttribute("role", "button");
-            but3D.innerText = "Download in 3D";
             but3D.setAttribute('href', kml3DPath);
+            but3D.setAttribute('download',"");
+            but3D.setAttribute('type','application/vnd.google-earth.kml+xml');
 
 
             acc.appendChild(newH3);
