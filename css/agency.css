@@ -111,7 +111,7 @@ div h3.section-subheading {
 
 @media (min-width: 768px) {
     section {
-        padding: 150px 0;
+        padding: 75px 0px 0px 0px;
     }
 }
 
@@ -766,6 +766,24 @@ ul.social-buttons li a {
     background-color: #212529;
 }
 
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #fed136; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  .loader1{
+      padding-top: 50px;
+      padding-left: 45%;
+  }
+  
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
