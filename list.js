@@ -1,3 +1,6 @@
+function lhide(){
+    document.getElementById("loader69").style.display = "none";
+}
 var kmlNetworkLinkBase = "https://cdn.jsdelivr.net/gh/ejson03/kmz/link";
 d3.dsv(';', 'data.csv')
     .then(function(data) {
@@ -36,4 +39,5 @@ d3.dsv(';', 'data.csv')
             newDiv.appendChild(but3D);
             $("#accordion").accordion("refresh");
         }
+        lhide();
     })
