@@ -8,9 +8,11 @@ d3.dsv(';', 'data.csv')
 
             var newH3 = document.createElement('h3');
             var newDiv = document.createElement('div');
+            var atest = document.createElement('a');
             var acc = document.getElementById('accordion');
  
-            newH3.innerText = data[count].Name;
+            atest.innerText = data[count].Name;//+' ('+data[count].Codes+')';
+            newH3.innerText = '('+data[count].Codes+') ';
 
             var kml2DPath = 'map.html?icao=' + data[count].Codes + '&name=' + data[count].Name;
             var but2D = document.createElement('a');
@@ -31,6 +33,7 @@ d3.dsv(';', 'data.csv')
 
 
             acc.appendChild(newH3);
+            newH3.appendChild(atest);
             acc.appendChild(newDiv);
             newDiv.appendChild(but2D);
             newDiv.appendChild(but3D);
